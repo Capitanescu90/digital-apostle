@@ -1,0 +1,11 @@
+@import "../../styles.scss";
+
+.header-background {
+  background-color: $color-primary;
+  // position: fixed;
+  // top: 0;
+  .nav-link {
+    text-transform: uppercase;
+    color: $color-grey-light;
+  }
+}

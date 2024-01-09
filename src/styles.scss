@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;700&family=Raleway:wght@300;400;500&display=swap");
+
+// Reset:
+body {
+  //   font-family: "Cinzel", serif;
+  font-family: "Raleway", sans-serif;
+}
+
+// Application colors:
+$color-primary: #2c2c2c;
+$color-grey-light: #ccc;
+$color-white: #fff;
